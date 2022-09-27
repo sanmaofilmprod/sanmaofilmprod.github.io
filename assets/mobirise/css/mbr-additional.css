@@ -683,8 +683,8 @@ a {
   transition: color 0.6s;
 }
 .cid-s48MCQYojq {
-  padding-top: 15rem;
-  padding-bottom: 15rem;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
 }
 .cid-s48MCQYojq .mbr-section-title {
   text-align: center;
@@ -1124,6 +1124,7 @@ a {
   background-color: #232323;
 }
 .cid-tifwURZ5jC img {
+  width: 120px;
   margin: auto;
 }
 .cid-tifwURZ5jC .card {
